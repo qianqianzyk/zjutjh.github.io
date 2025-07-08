@@ -24,8 +24,8 @@ blogs:
     feed: "https://www.f1nley.xyz/blog/rss.xml"
 
   - title: "Mulberror's Blog"
-    url: "https://blog.mulbx.top/"
-    feed: "https://blog.mulbx.top/index.xml"
+    url: "https://blog.mulbry.top/"
+    feed: "https://blog.mulbry.top/index.xml"
 
   - title: "Tiancy's Blog"
     url: "https://blog.tiancy.cn/"
@@ -58,3 +58,19 @@ blogs:
   - title: "MangoGovo's blog"
     url: "https://blog.mggo.xyz/"
     feed: "https://blog.mggo.xyz/rss2.xml"
+
+  - title: "望舒的尘歌壶"
+    url: "https://blog.phlin.cn/"
+    feed: "https://blog.phlin.cn/rss2.xml"
+
+  - title: "青鸟のBlog"
+    url: "https://blog.bluebird.icu/"
+    feed: "https://blog.bluebird.icu/posts/index.xml"
+
+  - title: "惜寞的无人小间"
+    url: "https://www.lonesome.cn/"
+    feed: "https://www.lonesome.cn/atom.xml"
+
+  - title: "树下集熵"
+    url: "https://www.entropy-tree.top/"
+    feed: "https://www.entropy-tree.top/atom.xml"
