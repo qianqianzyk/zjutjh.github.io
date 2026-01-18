@@ -1,16 +1,16 @@
-blogs: 
+blogs:
   - title: "竹林里有冰的博客"
     url: "https://zhul.in"
     feed: "https://zhul.in/rss.xml"
-  
+
   - title: "J10c's site"
-    url: "https://site.j10ccc.xyz/"
-    feed: "https://site.j10ccc.xyz/zh-cn/blog/rss.xml"
-  
+    url: "https://site.j10c.cc/"
+    feed: "https://site.j10c.cc/zh-cn/blog/rss.xml"
+
   - title: "派大星的石头屋"
     url: "https://blog.cnpatrickstar.com/"
     feed: "https://blog.cnpatrickstar.com/index.xml"
-  
+
   - title: "Node Sans Blog"
     url: "https://blog.node189.top/"
     feed: "https://blog.node189.top/rss.xml"
@@ -29,35 +29,31 @@ blogs:
 
   - title: "Tiancy's Blog"
     url: "https://blog.tiancy.cn/"
-    feed: "https://blog.tiancy.cn/atom.xml"
+    feed: "https://blog.tiancy.cn/rss/feed.xml"
 
   - title: "Hygge's Blog"
     url: "https://ljw030710.github.io/"
     feed: "https://ljw030710.github.io/atom.xml"
 
   - title: "消失在彩霞里的博客"
-    url: "https://blog.aiyin.club/"
-    feed: "https://blog.aiyin.club/index.xml"
-    
+    url: "https://blog.tidechoir.cn/"
+    feed: "https://blog.tidechoir.cn/index.xml"
+
   - title: "T-ON-Y的博客"
     url: "https://tonywu.top/"
     feed: "https://tonywu.top/atom.xml"
 
-  - title: "离谱的博客"
-    url: "https://blog.liip.fun/"
-    feed: "https://blog.liip.fun/rss.xml"
-
   - title: "白糖的记事本"
-    url: "https://blog.sugarmgp.icu/"
-    feed: "https://blog.sugarmgp.icu/rss2.xml"
+    url: "https://blog.sugarmgp.cn/"
+    feed: "https://blog.sugarmgp.cn/rss2.xml"
 
   - title: "浅浅子の小屋"
     url: "https://blog.qianqianzyk.top/"
     feed: "https://blog.qianqianzyk.top/rss.xml"
 
   - title: "MangoGovo's blog"
-    url: "https://blog.mggo.xyz/"
-    feed: "https://blog.mggo.xyz/rss2.xml"
+    url: "https://blog.mggovo.cn/"
+    feed: "https://blog.mggovo.cn/rss2.xml"
 
   - title: "望舒的尘歌壶"
     url: "https://blog.phlin.cn/"
@@ -74,3 +70,15 @@ blogs:
   - title: "树下集熵"
     url: "https://www.entropy-tree.top/"
     feed: "https://www.entropy-tree.top/atom.xml"
+
+  - title: "折乙 - blog"
+    url: "https://zheyi.in"
+    feed: "https://zheyi.in/rss.xml"
+
+  - title: "boom - blog"
+    url: "https://boom1999.github.io/"
+    feed: "https://boom1999.github.io/atom.xml"
+
+  - title: "Fridayssheep - blog"
+    url: "https://blog.fridayssheep.top/"
+    feed: "https://blog.fridayssheep.top/rss.xml"
